@@ -1,0 +1,44 @@
+.div{
+    display: flex;
+    flex-direction: column;
+}
+
+.head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.sub{
+    display: flex;
+    position: relative;
+    top: -30px;
+    border-bottom: 2px solid black;
+}
+
+.contact {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -20px;
+}
+
+.p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.titles{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 2rem;
+}
