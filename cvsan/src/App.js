@@ -15,10 +15,12 @@ function App() {
           <h5> Buenos Aires - Argentina. </h5>
       </div>
 
-      <div className={style.contact}>
-        <h5> linkedin</h5>
-        <h5> portfolio</h5>
-        <h5> github </h5>
+      <div className={style.contact1}>
+        
+        
+        <h5> <a href='http://www.linkedin.com/in/santiago-fernandez896'> Linkedin</a></h5>
+        <h5> <a href='https://portfoliosf896.netlify.app'> Portfolio</a> </h5>
+        <h5> <a href='https://github.com/San896'>Github</a> </h5>
       </div>
 
 
@@ -32,7 +34,7 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
 
 
       <h4 className={style.titles}> TECNOLOGIAS: </h4>
-      <p className = {style.p}>   SQL | PostgreSql | Sequelize | Node.js | Express | JavaScript | HTML | CSS | Bootstrap | React | Redux | Scrum | Git | Cloudinary.    </p>
+      <p className={style.titles}>   SQL | PostgreSql | Sequelize | Node.js | Express | JavaScript | HTML | CSS | Bootstrap | React | Redux | Scrum | Git | Cloudinary.    </p>
 
       <h4 className={style.titles}> PROYECTOS: </h4>
       <div>
@@ -42,8 +44,8 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
       <ul >
         <li>Diseñar y desarrollar una Single Page Aplication(SPA),  orientada a una institucion deportiva, con  el objetivo de crear una buena UI y UX. Cuenta con un e-commerce integrado, pasarela de pagos de mercado pago, tambien con autenticacion de usuarios con Auth0, incluye un dashboard para el administrador y usuarios. Creacion y organizacion de productos, imagenes subidas a Cloudinary, reviews de los productos entre muchas mas funcionalidades. </li>
         <li>Tecnologias usadas en la SPA: Front React, Redux, Bootstrap y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. </li>
-        <li> linkedin</li>
-        <li> github </li>
+        <a href='https://proyecto-final-one-murex.vercel.app/'> Deploy </a> <br/>
+       <a href='https://github.com/MATarg81/proyecto-final'> Repositorio </a> 
       </ul>
       </div>
 
@@ -55,8 +57,8 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
       <ul>
         <li>Diseñar y desarrollar una App sobre Recetas de comida, las cual  incluye búsquedas, filtrados, ordenamientos por tipos de receta, nivel de salud, nombre, entre otras. Tambien cuenta con un formulario controlado para la creacion de recetas. Fue creada utilzando una APi externa.  </li>
         <li>Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.  </li>
-        <li> linkedin</li>
-        <li> github </li>
+        <a href='https://sansfoodapp.netlify.app/'> Deploy </a> <br/>
+       <a href='https://github.com/San896/PIFood'> Repositorio </a> 
       </ul>
       </div>
 
@@ -64,7 +66,7 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
       <ul>
         <li> Full Stack Web Developer. Henry Bootcamp. +800 horas de cursado teórico-práctico. 2021-2022. </li>
         <li> 3 años de carrea en Ingenieria Electromecanica- UNGS(Universidad Nacional de Gral Sarmiento) </li>
-      </ul>4
+      </ul>
 
       <h4 className={style.titles}>EXPERIENCIA PROFESIONAL/OTRAS EXPERIENCIAS</h4>
       <ul>
