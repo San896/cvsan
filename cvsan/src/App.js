@@ -26,8 +26,8 @@ function App() {
 
       <div className = {style.p}>
       <p>
-      Full Stack Developer con formación como Desarrollador Web. Experiencia trabajando en JS, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum entre otras tecnologías del sector.<br/>
-Trabaje en conjunto con mi equipo para crear un SPA(single page app), orientada a una instituion deportiva/academica con un e-comerce integrado, posee una sección de manejo y administración de usuarios entre muchas mas funcionalidades, mi aporte fue bastatnte completo tanto en base de datos como back y front.<br/>
+      Full Stack Developer con formación como Desarrollador Web. Experiencia trabajando en JS, Base de datos, servidores, UI , UX y Scrum entre otras tecnologías del sector.<br/>
+Trabaje en conjunto en equipo en una  SPA, orientada a una instituion deportiva/academica con un e-comerce integrado, autenticacion con Auth0 entre mas funcionalidades, mi aporte fue completo en base de datos back y front. Tambien trabaje individualemten en una SPA sobre recetas de comida y otra sobre el colima, te invito a mi  <a href='https://portfoliosf896.netlify.app'> Portfolio</a><br/>
 Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resolucion de problemas. 
       </p>
       </div>
@@ -42,7 +42,7 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
       <h6 className={style.titles}> Henry Bootcamp, Buenos Aires, Argentina</h6>
       <h6 className={style.titles}> Oct 2022 – Nov 2022 </h6>
       <ul >
-        <li>Diseñar y desarrollar una Single Page Aplication(SPA),  orientada a una institucion deportiva, con  el objetivo de crear una buena UI y UX. Cuenta con un e-commerce integrado, pasarela de pagos de mercado pago, tambien con autenticacion de usuarios con Auth0, incluye un dashboard para el administrador y usuarios. Creacion y organizacion de productos, imagenes subidas a Cloudinary, reviews de los productos entre muchas mas funcionalidades. </li>
+        <li>Diseñar y desarrollar una Single Page Aplication(SPA),  orientada a una institucion deportiva, Cuenta con un e-commerce integrado, pasarela de pagos de mercado pago, tambien con autenticacion de usuarios con Auth0, incluye un dashboard para el administrador y usuarios. Creacion y organizacion de productos, imagenes subidas a Cloudinary, reviews de los productos entre muchas mas funcionalidades. </li>
         <li>Tecnologias usadas en la SPA: Front React, Redux, Bootstrap y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. </li>
         <a href='https://proyecto-final-one-murex.vercel.app/'> Deploy </a> <br/>
        <a href='https://github.com/MATarg81/proyecto-final'> Repositorio </a> 
@@ -71,7 +71,7 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
       <h4 className={style.titles}>EXPERIENCIA PROFESIONAL/OTRAS EXPERIENCIAS</h4>
       <ul>
         <h5>Productor Asesor de Seguros – RF Asesores/Productores de seguros </h5>
-        <h6> 2014 – 2022(actualidad)    </h6>
+        <h6> 2014 – 2023(actualidad)    </h6>
         <li> 8 años de experiencia en atencion al cliente, trabajo en equipo. Administracion de polizas, cobros, siniestros, tanto de vehiculos, hogares, comercios, como de vida. Manejo de multiples plataformas de distintas compañias de seguros </li>
 
         <h5>Emprendimiento, venta de baterias de vehiculos</h5>
