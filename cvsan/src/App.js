@@ -27,7 +27,7 @@ function App() {
       <div className = {style.p}>
       <p>
       Full Stack Developer con formación como Desarrollador Web. Experiencia trabajando en JS, Base de datos, servidores, UI , UX y Scrum entre otras tecnologías del sector.<br/>
-Trabaje en conjunto en equipo en una  SPA, orientada a una instituion deportiva/academica con un e-comerce integrado, autenticacion con Auth0 entre mas funcionalidades, mi aporte fue completo en base de datos back y front. Tambien trabaje individualemten en una SPA sobre recetas de comida y otra sobre el colima, te invito a mi  <a href='https://portfoliosf896.netlify.app'> Portfolio</a><br/>
+Trabaje en conjunto en equipo en una  SPA, orientada a una instituion deportiva/academica con un e-comerce integrado, autenticacion con Auth0 entre mas funcionalidades, mi aporte fue completo en base de datos back y front. Tambien trabaje individualemten en una SPA sobre recetas de comida y otra sobre el clima, te invito a mi  <a href='https://portfoliosf896.netlify.app'> Portfolio</a><br/>
 Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resolucion de problemas. 
       </p>
       </div>
