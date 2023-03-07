@@ -97,7 +97,7 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
         <li> Trabajo en equipo </li>
         <li> Resolutivo </li>
         <li> Resiliencia </li>
-        <li> Pasiencia </li>
+        <li> Paciencia </li>
         <li> Buena capacidad de comunicación. </li>
       </ul>
 
