@@ -26,17 +26,18 @@ function App() {
 
       <div className = {style.p}>
       <p>
-      Full Stack Developer con formación como Desarrollador Web. Experiencia trabajando en JS, Base de datos, servidores, UI , UX y Scrum entre otras tecnologías del sector.<br/>
-Trabaje en conjunto en equipo en una  SPA, orientada a una instituion deportiva/academica con un e-comerce integrado, autenticacion con Auth0 entre mas funcionalidades, mi aporte fue completo en base de datos back y front. Tambien trabaje individualemten en una SPA sobre recetas de comida y otra sobre el clima, te invito a mi  <a href='https://portfoliosf896.netlify.app'> Portfolio</a><br/>
+      Full Stack Developer con formación como Desarrollador Web. Experiencia trabajando en JS, Base de datos, servidores, UI , UX, contenedores Docker, Maquinas Virtuales, Scrum entre otras tecnologías del sector.<br/>
+      Trabaje en conjunto en equipo en la creacion de una SPA con una tienda incluida, sistema de pagos, autenticacion entre otras funcionalidades. Desarrolle un backend, una API sobre star wars con docker y una arquitectura de microservicios utilizando una VM de Google Cloud . Tambien trabaje individualemte en una SPA sobre recetas de comida y otra sobre el clima, te invito a mi  <a href='https://portfoliosf896.netlify.app'> Portfolio</a><br/>
 Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resolucion de problemas. 
       </p>
       </div>
 
 
       <h4 className={style.titles}> TECNOLOGIAS: </h4>
-      <p className={style.titles}>   SQL | PostgreSql | Sequelize | Node.js | Express | JavaScript | HTML | CSS | Bootstrap | React | Redux | Scrum | Git | Cloudinary.    </p>
+      <p className={style.titles}>   MongoDb | Mongoose | SQL | PostgreSql | Sequelize | Node.js | Express | JavaScript | React | Redux | Docker | Microservicios | Maquinas Virtuales(Google Cloud) | Scrum | Git | .   </p>
 
       <h4 className={style.titles}> PROYECTOS: </h4>
+
       <div>
       <h5 className={style.titles}> Full Stack Web Developer – “AthenasClub App” </h5>
       <h6 className={style.titles}> Henry Bootcamp, Buenos Aires, Argentina</h6>
@@ -44,7 +45,7 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
       <ul >
         <li>Diseñar y desarrollar una Single Page Aplication(SPA),  orientada a una institucion deportiva, Cuenta con un e-commerce integrado, pasarela de pagos de mercado pago, tambien con autenticacion de usuarios con Auth0, incluye un dashboard para el administrador y usuarios. Creacion y organizacion de productos, imagenes subidas a Cloudinary, reviews de los productos entre muchas mas funcionalidades. </li>
         <li>Tecnologias usadas en la SPA: Front React, Redux, Bootstrap y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. </li>
-        <a href='https://proyecto-final-one-murex.vercel.app/'> Deploy </a> <br/>
+        {/* <a href='https://proyecto-final-one-murex.vercel.app/'> Deploy </a> <br/> */}
        <a href='https://github.com/MATarg81/proyecto-final'> Repositorio </a> 
       </ul>
       </div>
@@ -59,6 +60,18 @@ Con pensamiento creativo, empatia, trabajo en equipo, autonomia y buena resoluci
         <li>Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.  </li>
         <a href='https://sansfoodapp.netlify.app/'> Deploy </a> <br/>
        <a href='https://github.com/San896/PIFood'> Repositorio </a> 
+      </ul>
+      </div>
+
+
+      <div>
+      <h5 className={style.titles}> Full Stack Web Developer - “StarWars API” </h5>
+      <h6 className={style.titles}> Henry UpSkilling, Buenos Aires, Argentina.</h6>
+      <h6 className={style.titles}> Jun. 2023 </h6>
+      <ul>
+        <li>Desarrollo de una API de StarWars utilizando una arquitectura de Microservicios bien modularizada, ExpressJs, MongoDb, Mongoose, Docker y Docker-Compose, Maquinas Virtulaes ( Google Cloud) .  </li>
+        <li>En la que se pueden obtener informacion y ver las relaciones sobre los personajes, peliculas y planetas. </li>
+       <a href='https://github.com/San896/Microservices'> Repositorio </a> 
       </ul>
       </div>
 
